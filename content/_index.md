@@ -9,7 +9,7 @@ images:
 - img/revoir.png
 show_action_link: true
 show_social_links: true
-subtitle:
+subtitle: Ph.D. student in [Political Science at Georgia State University](https://politicalscience.gsu.edu/)
 text_align_justify: true
 title: Muhammed Topcu
 type: home
