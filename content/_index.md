@@ -6,7 +6,7 @@ description: 'I am a Ph.D. student in [Political Science at Georgia State Univer
 
 image_right: true
 images:
-- img/revoir.jpg
+- img/revoir.png
 show_action_link: true
 show_social_links: true
 subtitle:
