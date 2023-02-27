@@ -160,7 +160,7 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
+  #[[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
