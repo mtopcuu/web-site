@@ -4,7 +4,7 @@ action_link: /about
 action_type: text
 description: 'I am a Ph.D. student in [Political Science at Georgia State University](https://politicalscience.gsu.edu/) in Atlanta, Georgia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit vel diam vitae pellentesque. Curabitur enim sem, feugiat sed justo vel, consequat dictum risus. Vivamus quis sagittis felis. Morbi sed enim non eros commodo pulvinar. Pellentesque mattis dictum ex condimentum lacinia. Aenean est lorem, cursus et elementum a, feugiat eget ligula. Mauris molestie quam at erat egestas, ut tincidunt arcu auctor.'
 
-image_right: true
+image_left: true
 images:
 - img/revoir.png
 show_action_link: true
