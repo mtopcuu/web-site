@@ -102,9 +102,9 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://twitter.com/mtopcu0"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
-      icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      icon      = "envelope-open" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "mailto:mtopcu1@gsu.edu"
   [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
