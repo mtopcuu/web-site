@@ -9,7 +9,7 @@ images:
 show_action_link: true
 show_social_links: true
 subtitle:
-text_align_left: false
+text_align_justify: true
 title: Muhammed Topcu
 type: home
 ---
