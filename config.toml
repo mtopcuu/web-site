@@ -104,7 +104,7 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/mtopcuu"
   [[params.social]]
-      icon      = "google-scholar"" # icon name without the 'fa-'
+      icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "hhttps://scholar.google.com/citations?user=0_bh8_8AAAAJ&hl=en"
   [[params.social]]
