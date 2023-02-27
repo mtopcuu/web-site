@@ -73,10 +73,10 @@ enableEmoji = true
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
     use_utterances = true
-    repo_name = "apreshill/apero"
-    issue_term = "pathname" # url, pathname, or title
-    theme = "boxy-light"
-    label = "comments :crystal_ball:"
+    repo_name = "mtopcuu/web-site"
+    issue_term = "title" # url, pathname, or title
+    theme = "github-light"
+    label = "comments :speech_balloon:"
 
   # Configuration of math rendering
   [params.math]
@@ -91,26 +91,26 @@ enableEmoji = true
       icon      = "envelope" # icon name without the 'fa-'
       icon_pack = "fas"
       url       = "mailto:mtopcu1@gsu.edu"
+   [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/mtopcu0"
+   [[params.social]]
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com"
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/mtopcuu"
   [[params.social]]
+      icon      = "google-scholar"" # icon name without the 'fa-'
+      icon_pack = "ai"
+      url       = "hhttps://scholar.google.com/citations?user=0_bh8_8AAAAJ&hl=en"
+  [[params.social]]
       icon      = "orcid" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://orcid.org/0000-0002-6239-2199"    
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/mtopcu0"    
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/mtopcu94/"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/mtopcuu"
+      url       = "https://orcid.org/0000-0002-6239-2199"        
 
 
 [taxonomies]
