@@ -3,13 +3,13 @@ action_label: Read More &rarr;
 action_link: /about
 action_type: text
 description: 'I am a Ph.D. student in Political Science at Georgia State University in Atlanta, Georgia. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec blandit vel diam vitae pellentesque. Curabitur enim sem, feugiat sed justo vel, consequat dictum risus. Vivamus quis sagittis felis. Morbi sed enim non eros commodo pulvinar. Pellentesque mattis dictum ex condimentum lacinia. Aenean est lorem, cursus et elementum a, feugiat eget ligula. Mauris molestie quam at erat egestas, ut tincidunt arcu auctor.'
-image_left: true
+image_right: true
 images:
 - img/revoir.jpg
 show_action_link: true
 show_social_links: true
 subtitle:
-text_align_left: true
+text_align_left: false
 title: Muhammed Topcu
 type: home
 ---
